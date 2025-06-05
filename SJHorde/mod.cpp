@@ -1,0 +1,11 @@
+name="SJHorde";
+picture="";
+logo="";
+logoOver="";
+logoSmall="";
+tooltip="SJHorde";
+tooltipOwned="";
+overview="A sample DayZ horde mod.";
+author="";
+authorID="";
+version="1.0";
